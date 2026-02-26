@@ -357,7 +357,7 @@
                         <div class="ml-4">
                             <h4 class="text-lg font-bold text-gray-900">Phone</h4>
                             <p class="mt-1"><a href="tel:+919332996663" class="text-primary-600 hover:text-primary-800 transition font-medium">+91 9332996663</a></p>
-                            <p><a href="tel:+919332996000" class="text-primary-600 hover:text-primary-800 transition font-medium">+91 9332996000</a></p>
+                            <p><a href="tel:+916295304930" class="text-primary-600 hover:text-primary-800 transition font-medium">+91 6295304930</a></p>
                         </div>
                     </div>
                 </div>
