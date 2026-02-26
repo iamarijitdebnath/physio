@@ -1,7 +1,7 @@
 @extends('layouts.app')
 
-@section('title', 'About Dr Sumalay Saha | Expert Physiotherapist in Nabadwip')
-@section('meta_description', 'Learn about Dr. Sumalay Saha, a highly qualified and experienced physiotherapist in Nabadwip specializing in neurological and orthopedic rehabilitation.')
+@section('title', 'About Dr Sumalya Saha | Expert Physiotherapist in Nabadwip')
+@section('meta_description', 'Learn about Dr. Sumalya Saha, a highly qualified and experienced physiotherapist in Nabadwip specializing in neurological and orthopedic rehabilitation.')
 
 @section('content')
     <!-- Page Header -->
@@ -12,7 +12,7 @@
             </svg>
         </div>
         <div class="max-w-7xl mx-auto px-4 relative z-10">
-            <h1 class="text-4xl font-extrabold mb-4">About Dr. Sumalay Saha</h1>
+            <h1 class="text-4xl font-extrabold mb-4">About Dr. Sumalya Saha</h1>
             <p class="text-lg text-primary-100 max-w-2xl mx-auto">Dedicated to restoring your mobility, strength, and quality of life through advanced physiotherapy.</p>
         </div>
     </div>
@@ -27,7 +27,7 @@
                     <div class="sticky top-28">
                         <div class="relative">
                             <div class="absolute inset-0 bg-primary-100 rounded-3xl transform translate-x-4 translate-y-4"></div>
-                            <img src="{{ asset('photo.png') }}" alt="Dr Sumalay Saha Portrait" class="relative rounded-3xl shadow-xl w-full object-cover border-4 border-white aspect-[3/4]">
+                            <img src="{{ asset('photo.png') }}" alt="Dr Sumalya Saha Portrait" class="relative rounded-3xl shadow-xl w-full object-cover border-4 border-white aspect-[3/4]">
                         </div>
                         
                         <div class="mt-8 bg-gray-50 p-6 rounded-2xl border border-gray-100">
@@ -55,7 +55,7 @@
                     <h2 class="text-3xl font-extrabold text-gray-900 mb-6 font-sans">Passion for Healing, Commitment to Excellence</h2>
                     
                     <p class="lead text-xl text-gray-500 font-medium mb-6">
-                        Dr. Sumalay Saha is a highly esteemed physiotherapist based in Nabadwip, recognized for his patient-centric approach and exceptional clinical success rates, especially in neurological and post-surgical rehabilitation.
+                        Dr. Sumalya Saha is a highly esteemed physiotherapist based in Nabadwip, recognized for his patient-centric approach and exceptional clinical success rates, especially in neurological and post-surgical rehabilitation.
                     </p>
 
                     <p class="mb-6">

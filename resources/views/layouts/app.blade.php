@@ -5,20 +5,20 @@
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <meta name="csrf-token" content="{{ csrf_token() }}">
 
-    <title>@yield('title', 'Best Physiotherapist in Nabadwip | Dr Sumalay Saha')</title>
-    <meta name="description" content="@yield('meta_description', 'Expert physiotherapy treatment in Nabadwip for stroke, paralysis, knee pain, frozen shoulder, and rehabilitation by Dr Sumalay Saha.')">
+    <title>@yield('title', 'Best Physiotherapist in Nabadwip | Dr Sumalya Saha')</title>
+    <meta name="description" content="@yield('meta_description', 'Expert physiotherapy treatment in Nabadwip for stroke, paralysis, knee pain, frozen shoulder, and rehabilitation by Dr Sumalya Saha.')">
     
     <!-- Open Graph Meta Tags -->
-    <meta property="og:title" content="@yield('title', 'Best Physiotherapist in Nabadwip | Dr Sumalay Saha')" />
-    <meta property="og:description" content="@yield('meta_description', 'Expert physiotherapy treatment in Nabadwip for stroke, paralysis, knee pain, frozen shoulder, and rehabilitation by Dr Sumalay Saha.')" />
+    <meta property="og:title" content="@yield('title', 'Best Physiotherapist in Nabadwip | Dr Sumalya Saha')" />
+    <meta property="og:description" content="@yield('meta_description', 'Expert physiotherapy treatment in Nabadwip for stroke, paralysis, knee pain, frozen shoulder, and rehabilitation by Dr Sumalya Saha.')" />
     <meta property="og:image" content="{{ asset('images/clinic-og.jpg') }}" />
     <meta property="og:url" content="{{ request()->url() }}" />
     <meta property="og:type" content="website" />
 
     <!-- Twitter Meta Tags -->
     <meta name="twitter:card" content="summary_large_image">
-    <meta name="twitter:title" content="@yield('title', 'Best Physiotherapist in Nabadwip | Dr Sumalay Saha')">
-    <meta name="twitter:description" content="@yield('meta_description', 'Expert physiotherapy treatment in Nabadwip for stroke, paralysis, knee pain, frozen shoulder, and rehabilitation by Dr Sumalay Saha.')">
+    <meta name="twitter:title" content="@yield('title', 'Best Physiotherapist in Nabadwip | Dr Sumalya Saha')">
+    <meta name="twitter:description" content="@yield('meta_description', 'Expert physiotherapy treatment in Nabadwip for stroke, paralysis, knee pain, frozen shoulder, and rehabilitation by Dr Sumalya Saha.')">
     <meta name="twitter:image" content="{{ asset('images/clinic-og.jpg') }}">
 
     <!-- Fonts -->
@@ -37,7 +37,7 @@
     {
       "@@context": "https://schema.org",
       "@@type": "MedicalClinic",
-      "name": "Dr Sumalay Saha Physiotherapy Clinic",
+      "name": "Dr Sumalya Saha Physiotherapy Clinic",
       "image": "{{ asset('images/clinic-og.jpg') }}",
       "@@id": "{{ url('/') }}",
       "url": "{{ url('/') }}",

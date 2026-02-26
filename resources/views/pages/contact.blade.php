@@ -1,7 +1,7 @@
 @extends('layouts.app')
 
-@section('title', 'Contact Us & Book Appointment | Dr Sumalay Saha Physiotherapy Clinic')
-@section('meta_description', 'Contact Dr. Sumalay Saha in Nabadwip for expert physiotherapy. Book your appointment online for stroke, pain management, and orthopedic rehabilitation.')
+@section('title', 'Contact Us & Book Appointment | Dr Sumalya Saha Physiotherapy Clinic')
+@section('meta_description', 'Contact Dr. Sumalya Saha in Nabadwip for expert physiotherapy. Book your appointment online for stroke, pain management, and orthopedic rehabilitation.')
 
 @section('content')
     <!-- Page Header -->
@@ -54,7 +54,7 @@
                                 </div>
                                 <div class="ml-4">
                                     <h4 class="text-lg font-semibold text-gray-900">Email Address</h4>
-                                    <p class="mt-1"><a href="mailto:info@drsumalaysaha.com" class="text-primary-600 hover:text-primary-800 transition">info@drsumalaysaha.com</a></p>
+                                    <p class="mt-1"><a href="mailto:info@drsumalyasaha.com" class="text-primary-600 hover:text-primary-800 transition">info@drsumalyasaha.com</a></p>
                                 </div>
                             </div>
 

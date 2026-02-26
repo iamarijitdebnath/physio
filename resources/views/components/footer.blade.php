@@ -5,7 +5,7 @@
             <!-- Clinic Info -->
             <div>
                 <a href="{{ url('/') }}" class="inline-block mb-6">
-                    <span class="text-2xl font-bold text-white block">Dr. Sumalay Saha</span>
+                    <span class="text-2xl font-bold text-white block">Dr. Sumalya Saha</span>
                     <span class="text-sm text-primary-400 font-medium tracking-wide uppercase">Physiotherapy Clinic</span>
                 </a>
                 <p class="text-gray-400 mb-6 leading-relaxed text-sm">
@@ -96,7 +96,7 @@
 
         <div class="border-t border-gray-800 pt-8 mt-4 md:flex md:items-center md:justify-between text-center md:text-left">
             <p class="text-gray-500 text-sm">
-                &copy; {{ date('Y') }} Dr. Sumalay Saha Physiotherapy Clinic. All rights reserved.
+                &copy; {{ date('Y') }} Dr. Sumalya Saha Physiotherapy Clinic. All rights reserved.
             </p>
             <p class="text-gray-500 text-sm mt-2 md:mt-0">
                 Designed & Developed for Local Excellence

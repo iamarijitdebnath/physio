@@ -1,7 +1,7 @@
 @extends('layouts.app')
 
-@section('title', 'Best Physiotherapist in Nabadwip | Dr Sumalay Saha Physiotherapy Clinic')
-@section('meta_description', 'Expert physiotherapy treatment in Nabadwip for stroke, paralysis, knee pain, frozen shoulder, and rehabilitation by Dr Sumalay Saha.')
+@section('title', 'Best Physiotherapist in Nabadwip | Dr Sumalya Saha Physiotherapy Clinic')
+@section('meta_description', 'Expert physiotherapy treatment in Nabadwip for stroke, paralysis, knee pain, frozen shoulder, and rehabilitation by Dr Sumalya Saha.')
 
 @section('content')
     <!-- Hero Section -->
@@ -28,7 +28,7 @@
                         <span class="block text-primary-600">& Mobility Today</span>
                     </h1>
                     <p class="mt-3 text-base text-gray-600 sm:mt-5 sm:text-lg sm:max-w-xl sm:mx-auto md:mt-5 md:text-xl lg:mx-0 font-medium leading-relaxed animate-fade-in-up" style="animation-delay: 0.2s;">
-                        Expert physiotherapy care by Dr. Sumalay Saha. Specializing in stroke rehab, pain management, and personalized recovery plans to help you live pain-free.
+                        Expert physiotherapy care by Dr. Sumalya Saha. Specializing in stroke rehab, pain management, and personalized recovery plans to help you live pain-free.
                     </p>
                     
                     <div class="mt-8 sm:max-w-lg sm:mx-auto sm:text-center lg:text-left lg:mx-0 animate-fade-in-up flex flex-col sm:flex-row gap-4 justify-center lg:justify-start" style="animation-delay: 0.3s;">
@@ -103,7 +103,7 @@
                 <div class="order-2 lg:order-1">
                     <div class="relative inline-block w-full">
                         <div class="absolute -inset-4 bg-gradient-to-r from-primary-100 to-secondary-100 rounded-[2.5rem] transform rotate-3 scale-105 opacity-50 blur-sm"></div>
-                        <img src="{{ asset('photo3.png') }}" alt="Dr Sumalay Saha" class="relative rounded-3xl shadow-xl w-full object-cover aspect-[4/3] lg:aspect-[3/4] border-4 border-white z-10">
+                        <img src="{{ asset('photo3.png') }}" alt="Dr Sumalya Saha" class="relative rounded-3xl shadow-xl w-full object-cover aspect-[4/3] lg:aspect-[3/4] border-4 border-white z-10">
                         <div class="absolute -bottom-6 -right-6 bg-white p-6 rounded-2xl shadow-xl z-20 border border-gray-50">
                             <p class="text-3xl font-extrabold text-primary-600 mb-1">10+</p>
                             <p class="text-sm font-semibold text-gray-600 uppercase tracking-wide">Years Experience</p>
@@ -112,9 +112,9 @@
                 </div>
                 <div class="order-1 lg:order-2">
                     <span class="text-primary-600 font-bold tracking-wider uppercase text-sm mb-4 block">About Our Doctor</span>
-                    <h2 class="text-3xl font-extrabold text-gray-900 sm:text-4xl mb-6">Expert Care by <br/><span class="text-primary-600">Dr. Sumalay Saha</span></h2>
+                    <h2 class="text-3xl font-extrabold text-gray-900 sm:text-4xl mb-6">Expert Care by <br/><span class="text-primary-600">Dr. Sumalya Saha</span></h2>
                     <p class="text-lg text-gray-600 mb-6 leading-relaxed">
-                        With over a decade of experience in advanced physiotherapy, Dr. Sumalay Saha provides comprehensive care for various orthopedic and neurological conditions.
+                        With over a decade of experience in advanced physiotherapy, Dr. Sumalya Saha provides comprehensive care for various orthopedic and neurological conditions.
                     </p>
                     
                     <div class="bg-white rounded-xl shadow-sm border border-gray-100 p-6 mb-8">
@@ -308,19 +308,19 @@
                 <x-testimonial-card 
                     name="Arijit Debnath"
                     condition="Muscle Weakness"
-                    text="I visited the clinic after my collar bone fracture because I was having severe muscle weakness and difficulty moving my shoulder and arm. Dr. Sumalay Saha guided me through proper physiotherapy exercises and treatment sessions very patiently. Within a few weeks, I noticed significant improvement in my strength and mobility. His behavior with patients is very friendly and motivating, which helped me recover faster and regain confidence. I highly recommend this clinic for post-fracture rehabilitation and muscle recovery."
+                    text="I visited the clinic after my collar bone fracture because I was having severe muscle weakness and difficulty moving my shoulder and arm. Dr. Sumalya Saha guided me through proper physiotherapy exercises and treatment sessions very patiently. Within a few weeks, I noticed significant improvement in my strength and mobility. His behavior with patients is very friendly and motivating, which helped me recover faster and regain confidence. I highly recommend this clinic for post-fracture rehabilitation and muscle recovery."
                 />
                 
                 <x-testimonial-card 
                     name="Ayan Mahato"
                     condition="Ligament Injury"
-                    text="I had a knee ligament injury that caused pain, instability, and difficulty walking. After starting treatment with Dr. Sumalay Saha, my condition improved greatly. The therapy sessions, exercises, and guidance were very effective, and the doctor explained everything clearly. Now I can walk comfortably with much less pain. The clinic environment is very supportive, and the care provided is excellent. I would strongly recommend this clinic for knee injuries and ligament problems."
+                    text="I had a knee ligament injury that caused pain, instability, and difficulty walking. After starting treatment with Dr. Sumalya Saha, my condition improved greatly. The therapy sessions, exercises, and guidance were very effective, and the doctor explained everything clearly. Now I can walk comfortably with much less pain. The clinic environment is very supportive, and the care provided is excellent. I would strongly recommend this clinic for knee injuries and ligament problems."
                 />
                 
                 <x-testimonial-card 
                     name="Sankar Ghosh"
                     condition="Knee Pain & Arthritis"
-                    text="The pain management techniques used by Dr. Sumalay are superb. I avoided a knee replacement surgery through his guided physiotherapy plan. He explains the condition very well and builds confidence."
+                    text="The pain management techniques used by Dr. Sumalya are superb. I avoided a knee replacement surgery through his guided physiotherapy plan. He explains the condition very well and builds confidence."
                 />
             </div>
         </div>

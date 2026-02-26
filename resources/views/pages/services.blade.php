@@ -1,7 +1,7 @@
 @extends('layouts.app')
 
-@section('title', 'Physiotherapy Services & Treatments in Nabadwip | Dr Sumalay Saha')
-@section('meta_description', 'Comprehensive physiotherapy services including stroke rehab, pain management, post-surgical recovery, and frozen shoulder treatment by Dr. Sumalay Saha.')
+@section('title', 'Physiotherapy Services & Treatments in Nabadwip | Dr Sumalya Saha')
+@section('meta_description', 'Comprehensive physiotherapy services including stroke rehab, pain management, post-surgical recovery, and frozen shoulder treatment by Dr. Sumalya Saha.')
 
 @section('content')
     <!-- Page Header -->
@@ -22,7 +22,7 @@
         <div class="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
             <div class="text-center max-w-3xl mx-auto mb-16">
                 <h2 class="text-3xl font-extrabold text-gray-900 mb-6">What We Treat</h2>
-                <p class="text-lg text-gray-600">At Dr. Sumalay Saha Physiotherapy Clinic, we specialize in a wide array of conditions, focusing on both rapid symptom relief and long-term functional improvement.</p>
+                <p class="text-lg text-gray-600">At Dr. Sumalya Saha Physiotherapy Clinic, we specialize in a wide array of conditions, focusing on both rapid symptom relief and long-term functional improvement.</p>
             </div>
 
             <!-- Conditions Grid -->
@@ -122,7 +122,7 @@
     <section class="py-16 bg-white border-t border-gray-100">
         <div class="max-w-4xl mx-auto px-4 text-center">
             <h2 class="text-3xl font-bold text-gray-900 mb-6">Unsure if physiotherapy can help your specific condition?</h2>
-            <p class="text-lg text-gray-600 mb-8">Consult with Dr. Sumalay Saha to get a professional assessment and personalized advice.</p>
+            <p class="text-lg text-gray-600 mb-8">Consult with Dr. Sumalya Saha to get a professional assessment and personalized advice.</p>
             <div class="flex flex-col sm:flex-row gap-4 justify-center">
                 <a href="{{ url('/contact') }}" class="px-8 py-4 bg-primary-600 hover:bg-primary-700 text-white font-bold rounded-xl shadow-md transition">
                     Contact Clinic Now
